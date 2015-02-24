@@ -1,6 +1,8 @@
 #!/bin/bash
 #
 # Christian Heine, 2015-02-23
+# mailto:gday@chhei.mensa.uberspace.de
+#
 # Convert shp files for Golonka and Smith models to geojson files
 # Display in Github needs GEOJSON
 

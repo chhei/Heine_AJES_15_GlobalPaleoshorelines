@@ -6,6 +6,10 @@ We invite contibutions to improve this global compilation. Please use the issue 
 ## Files contained in this repository ##
 
 1.  `*.gpml` files at top level: These are collations of paleoshoreline estimates in [GPlates](http://www.gplates.org)-compatible format.
+2.  `Global_Paleoshorelines_[Golonka|Smith]`: These directories contain:
+    1. `Global_Paleoshorelines_[Golonka|Smith].shp`: A shapefile containing all timesteps (same as the `*.gpml` file but you can load/alter it in QGIS/ArcGIS)
+    2.   A subdirectory called `[Smith|Golonka]_Timesteps_geojson`: This contains a `*.geojson` file of each timestep and can be pre-viewed using GitHub's automatic rendering of geojson files
+    3.   A subdirectory called `[Smith|Golonka]_Timesteps_shp`: This contains sets of Shapefiles for each timestep (same as the `*.geojson` ones).
 
 ## License ##
 
@@ -17,5 +21,5 @@ Permissions beyond the scope of this license (such as commercial use) are availa
 
 If you chose to utilise the data please quote the following paper:
 
-Christian Heine, Lune Gene Yeo, and R. Dietmar Muller (in press): Evaluating global paleoshoreline models for the Cretaceous and Cenozoic. Australian Journal of Earth Sciences.
+Christian Heine, Lune Gene Yeo, and R. Dietmar Muller (in press): Evaluating global paleoshoreline models for the Cretaceous and Cenozoic. Australian Journal of Earth Sciences. Download the draft version from [http://www.earthbyte.org/Resources/Pdf/HeineYeoMuller_GlobalPaleoshorelines_AJES_inpress.pdf]
 

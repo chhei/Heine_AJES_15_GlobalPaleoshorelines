@@ -17,9 +17,21 @@ This dataset/repository is licensed under a [Creative Commons Attribution-NonCom
 
 Permissions beyond the scope of this license (such as commercial use) are available on request by contacting [Christian Heine](mailto:chhei@mensa.uberspace.de).
 
+## Erratum ##
+
+The paper erroneously contains the wrong reference for Jan Golonka's paleogeographic maps. Instead of Golonka et al. (2006) it should be the following two:
+
+* Golonka , J. (2009). Phanerozoic paleoenvironment and paleolithofacies maps: Cenozoic. Geologia / Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie, Vol. 35: 4, 507-587. [http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-AGHM-0011-0001](http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-AGHM-0011-0001)  
+* Golonka, J. (2007). Phanerozoic paleoenvironment and paleolithofacies maps: Mesozoic. Geologia / Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie, Vol. 33: 2, 211--264. [http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-AGH5-0014-0139](http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-AGH5-0014-0139)   
+
 ## Reference ##
 
 If you chose to utilise the data please quote the following paper:
 
-Christian Heine, Lune Gene Yeo, and R. Dietmar Muller (in press): Evaluating global paleoshoreline models for the Cretaceous and Cenozoic. Australian Journal of Earth Sciences. Download the draft version from [http://www.earthbyte.org/Resources/Pdf/HeineYeoMuller_GlobalPaleoshorelines_AJES_inpress.pdf]
+Christian Heine, Lune Gene Yeo, and R. Dietmar Muller (2015): Evaluating global paleoshoreline models for the Cretaceous and Cenozoic. Australian Journal of Earth Sciences. Doi: [10.1080/08120099.2015.1018321](http://dx.doi.org/10.1080/08120099.2015.1018321)
+
+
+
+
+
 

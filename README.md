@@ -21,5 +21,5 @@ Permissions beyond the scope of this license (such as commercial use) are availa
 
 If you chose to utilise the data please quote the following paper:
 
-Christian Heine, Lune Gene Yeo, and R. Dietmar Muller (in press): Evaluating global paleoshoreline models for the Cretaceous and Cenozoic. Australian Journal of Earth Sciences. Download the draft version from [http://www.earthbyte.org/Resources/Pdf/HeineYeoMuller_GlobalPaleoshorelines_AJES_inpress.pdf]
+Christian Heine, Lune Gene Yeo, and R. Dietmar Muller (2015): Evaluating global paleoshoreline models for the Cretaceous and Cenozoic. Australian Journal of Earth Sciences. Doi: [10.1080/08120099.2015.1018321](http://dx.doi.org/10.1080/08120099.2015.1018321)
 

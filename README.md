@@ -1,5 +1,8 @@
-# Heine_AJES_15_GlobalPaleoshorelines
-A compilation of global paleoshorelines from the Golonka et al., 2005 and Smith et al., 1994 paleogeographic models.
+# Heine_AJES_15_GlobalPaleoshorelines  
+
+Christian Heine, Lune Gene Yeo, and R. Dietmar Muller (2015): Evaluating global paleoshoreline models for the Cretaceous and Cenozoic. Australian Journal of Earth Sciences. Doi: [10.1080/08120099.2015.1018321](http://dx.doi.org/10.1080/08120099.2015.1018321)
+
+A digital compilation of global paleoshorelines from the Golonka et al., 2005 and Smith et al., 1994 paleogeographic models.
 
 We invite contibutions to improve this global compilation. Please use the issue tracker functionality in GitHub to comment or remark on the data.
 
@@ -23,10 +26,3 @@ The paper erroneously contains the wrong reference for Jan Golonka's paleogeogra
 
 * Golonka , J. (2009). Phanerozoic paleoenvironment and paleolithofacies maps: Cenozoic. Geologia / Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie, Vol. 35: 4, 507-587. [http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-AGHM-0011-0001](http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-AGHM-0011-0001)  
 * Golonka, J. (2007). Phanerozoic paleoenvironment and paleolithofacies maps: Mesozoic. Geologia / Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie, Vol. 33: 2, 211--264. [http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-AGH5-0014-0139](http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-AGH5-0014-0139)   
-
-## Reference ##
-
-If you chose to utilise the data please quote the following paper:
-
-Christian Heine, Lune Gene Yeo, and R. Dietmar Muller (2015): Evaluating global paleoshoreline models for the Cretaceous and Cenozoic. Australian Journal of Earth Sciences. Doi: [10.1080/08120099.2015.1018321](http://dx.doi.org/10.1080/08120099.2015.1018321)
-
